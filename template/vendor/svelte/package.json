@@ -1,0 +1,11 @@
+{
+  "name": "@owdproject/svelte",
+  "version": "4.0.0-alpha.3",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "exports": "./index.ts",
+  "dependencies": {
+    "@owdproject/core": "4.0.0-alpha.4"
+  }
+}
